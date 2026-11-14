@@ -1,5 +1,0 @@
-# Tratar PNGs e ICOs como archivos de gráficos y diseño
-*.png linguist-vendored=false
-*.ico linguist-vendored=false
-*.png binary
-*.ico binary
