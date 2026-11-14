@@ -4,12 +4,17 @@ Pack de iconos personalizados inspirados en el universo Star Wars aplicados a so
 
 Colección de iconos personalizados con temática de **Star Wars**, diseñados para mantener la identidad visual de aplicaciones, plataformas de videojuegos y herramientas de software, pero adaptados con una estética industrial, metálica y galáctica.
 
-![Vista previa del escritorio](https://github.com/JonStarkiller/Star-Wars-Desktop-Icons/blob/main/Escritorio.png)
+![Vista previa del escritorio](https://github.com/JonStarkiller/Star-Wars-Desktop-Icons/blob/main/Screenshots/Desktop.png)
 
 ## 📁 Estructura del Repositorio
-- **`/png/`**: Archivos originales en formato PNG con transparencia de alta resolución.
-- **`/ico/`**: Archivos `.ico` listos para ser aplicados en Windows.
+- **`/PNG/`**: Archivos originales en formato PNG con transparencia de alta resolución.
+- **`/ICOs/`**: Archivos `.ico` listos para ser aplicados en Windows.
 
+### Vista previa de los iconos en el escritorio
+
+| Captura 1 | Captura 2 | Captura 3 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/JonStarkiller/Star-Wars-Desktop-Icons/blob/main/Screenshots/Icons1.png" width="100%"> | <img src="https://github.com/JonStarkiller/Star-Wars-Desktop-Icons/blob/main/Screenshots/IconsFolder2.png" width="100%"> | <img src="https://github.com/JonStarkiller/Star-Wars-Desktop-Icons/blob/main/Screenshots/IconsLogos3.png" width="100%"> |
 ---
 
 ## ⚖️ Disclaimer / Aviso Legal
@@ -39,4 +44,4 @@ This package contains custom, self-created fan-made icons designed with a Star W
 ---
 
 ## 🚀 Autor
-Creado por **JonStarkiller**. ¡Que la Fuerza te acompañe!
+Creado por **Jonathan Rey**. ¡Que la Fuerza te acompañe!
