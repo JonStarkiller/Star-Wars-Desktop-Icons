@@ -1,5 +1,5 @@
-# Forzar a que las carpetas de iconos no se detecten como código
-/PNGs/ linguist-vendored
-/ICO/ linguist-vendored
-*.png linguist-image
-*.ico linguist-vendored
+# Tratar PNGs e ICOs como archivos de gráficos y diseño
+*.png linguist-vendored=false
+*.ico linguist-vendored=false
+*.png binary
+*.ico binary
