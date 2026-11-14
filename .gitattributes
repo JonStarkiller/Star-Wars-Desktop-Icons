@@ -1,0 +1,5 @@
+# Forzar a que las carpetas de iconos no se detecten como código
+/PNGs/ linguist-vendored
+/ICO/ linguist-vendored
+*.png linguist-image
+*.ico linguist-vendored
