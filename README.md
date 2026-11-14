@@ -8,7 +8,7 @@ Colección de iconos personalizados con temática de **Star Wars**, diseñados p
 
 ## 📁 Estructura del Repositorio
 - **`/PNG/`**: Archivos originales en formato PNG con transparencia de alta resolución.
-- **`/ICOs/`**: Archivos `.ico` listos para ser aplicados en Windows.
+- **`/ICOs/`**: Archivos `.ico` de 512x512px a 16x16px listos para ser aplicados en Windows.
 
 ### Vista previa de los iconos en el escritorio
 
